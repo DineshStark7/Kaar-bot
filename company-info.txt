@@ -1,0 +1,156 @@
+---
+
+Company Name: Kaar Infotech Private Limited  
+Industry: Information Technology and Services  
+Founded: 2017  
+Headquarters: Erode, Tamil Nadu, India  
+Mission Statement: Empowering organizations to thrive via digital technology and process transformation.  
+Vision: To be a globally esteemed organization that delivers the finest business solutions, leveraging technology and prominent expertise.  
+Core Values: Integrity, Morality, Diplomacy, and Client-Centric Solutions.  
+
+---
+
+Services & Offerings  
+
+Engineering & Development  
+- Developing scalable, high-performance enterprise solutions tailored to business needs.  
+
+Data Analytics & Measurement  
+- Transforming raw data into actionable business intelligence using Power BI, SQL, and Azure services.  
+
+Indoor Wayfinding  
+- Offering custom digital mapping solutions to enhance indoor navigation in large venues and corporate offices.  
+
+Azure Cloud Solutions  
+- Providing cloud-based infrastructure, storage, and AI-driven solutions to streamline business operations.  
+
+Power Platform Services  
+- Automating business workflows with Power Automate, Power BI, and Power Apps for enhanced efficiency.  
+
+Security & Compliance  
+- Ensuring robust security frameworks and compliance for Microsoft Azure and enterprise applications.  
+
+---
+
+Company Metrics of Success  
+
+130+ Employees  
+6+ Years of Industry Experience  
+40+ Flagship Events Supported  
+5+ Proprietary Products  
+25+ Success Stories  
+
+---
+
+Why Choose Kaar Infotech?  
+
+Microsoft Certified Professionals  
+Cost-Efficient Global Delivery  
+Full-Stack Development Expertise  
+Digital Event Domain Expertise  
+Zero-Touch Quality Assurance  
+Exceptionally Low Attrition Rate  
+
+---
+
+Executive Team  
+
+Chief Executive Officer: Nithya S  
+Chief Operational Officer: Kailasamoorthi P  
+Chief Financial Officer: Kodeeswaran R 
+
+---
+
+Current Job Openings  
+
+Senior Software Engineer / Technical Lead  
+Location: Remote / B1 Travel Visa for International Exposure  
+Skills: .NET Core, C#, Web API, Azure DevOps, OOP Principles  
+
+Technical Architect  
+Location: Remote / Hybrid  
+Skills: ASP.NET MVC, SQL Server, Microservices, JavaScript, jQuery  
+
+.NET Technical Project Manager  
+Location: Remote / Hybrid  
+Skills: .NET, Azure, C#, Web API, Project Management  
+
+
+.NET Technical Architect  
+Location: Remote / Hybrid  
+Skills: ASP.NET MVC, SQL Server, Microservices, REST APIs  
+
+To Apply: Visit our careers page or email hr@kaarinfotech.com  
+
+---
+
+Life at KAAR Infotech  
+
+Inclusive Culture: A workplace built on mutual respect, teamwork, and continuous learning.  
+Work-Life Balance: Celebration leave, remote work flexibility, and career development programs.  
+Diversity & Inclusion: KAAR maintains a 50 percent diversity rate, ensuring equal opportunities for all employees.  
+Flexible Work Policy: Remote, hybrid, and flexible work options are available to support employee well-being.  
+
+---
+
+Success Stories & Client Impact  
+
+Microsoft Security & Compliance Project  
+- KAAR helped Microsoft suppliers enhance security standards and maintain regulatory compliance for Azure resources.  
+- Implemented automated security monitoring and static code analysis to improve quality.  
+- Resulted in on-time delivery and increased client satisfaction.  
+
+Azure Cloud Transformation for Enterprise Clients  
+- Assisted multiple organizations in transitioning to Azure-based infrastructures for better scalability and performance.  
+
+Custom Indoor Wayfinding Solutions  
+- Developed real-time digital mapping tools to enhance navigation within large convention centers and corporate campuses.  
+
+---
+
+Clients & Partnerships  
+
+Microsoft Corporation – A global leader in software, hardware, and cloud computing solutions.  
+Additional Clients: Sounds Planning
+
+---
+
+Technologies Used  
+
+Cloud Computing: Microsoft Azure, AWS  
+Development: .NET Core, .NET MVC, C#, JavaScript, React  
+Data & Analytics: SQL Server, Power BI, CosmosDB, Azure Data Factory  
+Security & Compliance: Microsoft Defender, Azure Security Center  
+
+---
+
+Contact Information  
+
+Email: info@kaarinfotech.com  
+Phone: +91 84384 64787  
+Website: www.kaarinfotech.com  
+Address:  
+Kaar Infotech Private Limited,  
+15/1, 4th Cross Street, Erode Road,  
+Perundurai, Erode, Tamil Nadu - 638052, India  
+
+Social Media:  
+LinkedIn: linkedin.com/in/kaarinfotech  
+
+---
+
+Frequently Asked Questions  
+
+Q: What services does Kaar Infotech offer?  
+A: We specialize in Engineering & Development, Data Analytics, Indoor Wayfinding, Power Platform Services, and Security & Compliance solutions.  
+
+Q: How can I contact customer support?  
+A: You can reach us via email at info@kaarinfotech.com or call us at +91 84384 64787.  
+
+Q: Where is Kaar Infotech located?  
+A: Our office is in Perundurai, Erode, Tamil Nadu, India.  
+
+Q: Do you provide international services?  
+A: Yes, we provide IT solutions globally, offering cost-effective and efficient digital transformations.  
+
+---
