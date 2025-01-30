@@ -14,7 +14,7 @@ app.use(express.json());
 const companyInfo = fs.readFileSync("company-info.txt", "utf-8");
 
 app.get("/", (req, res) => {
-    res.send("Kaar Chatbot API is running...");
+  res.send("Kaar Chatbot API is running...");
 });
 
 app.post("/chat", async (req, res) => {
@@ -27,7 +27,7 @@ app.post("/chat", async (req, res) => {
     const response = await axios.post(
       "https://openrouter.ai/api/v1/chat/completions",
       {
-        model: "openrouter/gpt-4", // You can change the model as needed
+        model: "deepseek/deepseek-r1:free", // You can change the model as needed
         messages: [
           {
             role: "system",
