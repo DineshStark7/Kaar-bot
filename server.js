@@ -13,6 +13,10 @@ app.use(express.json());
 // Read company information from file
 const companyInfo = fs.readFileSync("company-info.txt", "utf-8");
 
+app.get("/", (req, res) => {
+    res.send("Kaar Chatbot API is running...");
+});
+
 app.post("/chat", async (req, res) => {
   const { message } = req.body;
   if (!message) {
